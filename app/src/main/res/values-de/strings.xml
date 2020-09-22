@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_msg">Willkommen</string>
+    <string name="login_btn">Reinkommen</string>
+
+</resources>
